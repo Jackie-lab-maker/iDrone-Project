@@ -1,5 +1,5 @@
 # iDrone-Project
-# Hexacopter Frame Prototype & Flight Control System – iDrone Project
+# Hexacopter Frame Prototype & Flight Control System
 
 This project documents the end-to-end development of a custom hexacopter drone, covering structural design, electronics integration, and closed-loop flight control development.
 
